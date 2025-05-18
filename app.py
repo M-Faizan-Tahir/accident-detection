@@ -5,7 +5,7 @@ import numpy as np
 
 # Set page title and layout
 st.set_page_config(page_title="Accident Detection App", layout="wide")
-st.title("Accident Detection App")
+st.title("Accident Detection Module")
 st.write("Upload an image to detect if an accident is present.")
 
 # Load the trained model
